@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalifaomeiza
+- 👋 Hi, I’m Khalifa Abdulsalam
 - 👀 I’m interested in Fullstack Web Development 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on Front-end projects
