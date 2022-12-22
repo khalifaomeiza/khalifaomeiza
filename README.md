@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khalifa Abdulsalam
 - 👀 I’m interested in Fullstack Web Development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Server-side programming 
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me: khalifabdul96@gmail.com
 Twitter: @khalifaomeiza
