@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Server-side programming 
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me: khalifabdul96@gmail.com
-Twitter: @khalifaomeiza
+Twitter: @undefynMe
 
 <!---
 khalifaomeiza/khalifaomeiza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
