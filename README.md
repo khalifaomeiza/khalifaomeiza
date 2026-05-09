@@ -50,7 +50,7 @@ const khalifa = {
 
 <!-- TECH STACK SECTION -->
 
-## 🛸 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -86,7 +86,7 @@ const khalifa = {
 
 <!-- EXPERIENCE TIMELINE -->
 
-## 🚀 Career Timeline
+## Career Timeline
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
@@ -139,11 +139,6 @@ const khalifa = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalifaomeiza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalifaomeiza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=khalifaomeiza&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" alt="GitHub Streak"/>
 
 <br/>
@@ -190,7 +185,7 @@ currently:
 
 <!-- CONNECT SECTION -->
 
-## 📡 Let’s Connect
+## Let’s Connect
 
 <div align="center">
 
