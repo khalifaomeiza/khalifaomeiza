@@ -3,7 +3,7 @@
 <div align="center">
 
 
-### ⚡ `whoami`
+### `whoami`
 
 ```ts
 const khalifa = {
@@ -24,7 +24,7 @@ const khalifa = {
 
 <!-- TECH STACK SECTION -->
 
-## 🛸 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -60,7 +60,7 @@ const khalifa = {
 
 <!-- EXPERIENCE TIMELINE -->
 
-## 🚀 Career Timeline
+## Career Timeline
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
@@ -73,7 +73,7 @@ const khalifa = {
 ```
 
 <details>
-<summary><b>📌 Kaabo — Backend Engineer (May 2025 – Present · Los Angeles, CA)</b></summary>
+<summary><b> Kaabo — Backend Engineer (May 2025 – Present · Los Angeles, CA)</b></summary>
 <br/>
 
 - 🔷 Engineered **GraphQL APIs** powering mobile, web, and application clients
@@ -84,7 +84,7 @@ const khalifa = {
 </details>
 
 <details>
-<summary><b>📌 PayfiHQ — Software Engineer (Sept 2023 – April 2025 · Toronto, CA)</b></summary>
+<summary><b>PayfiHQ — Software Engineer (Sept 2023 – April 2025 · Toronto, CA)</b></summary>
 <br/>
 
 - 🔷 Refactored **legacy endpoints** into high-throughput services — slashing response times & server load
@@ -95,7 +95,7 @@ const khalifa = {
 </details>
 
 <details>
-<summary><b>📌 Payfi — Frontend Intern (April – Sept 2023 · Lagos, NG)</b></summary>
+<summary><b>Payfi — Frontend Intern (April – Sept 2023 · Lagos, NG)</b></summary>
 <br/>
 
 - 🔷 Built UI components in **React + SCSS + TypeScript**, boosting engagement across core modules
@@ -109,7 +109,7 @@ const khalifa = {
 
 <!-- GITHUB STATS SECTION -->
 
-## 📊 GitHub Intelligence
+## GitHub Intelligence
 
 <div align="center">
 
@@ -130,7 +130,7 @@ const khalifa = {
 
 <!-- ACHIEVEMENTS -->
 
-## 🏆 Achievements & Trophies
+## Achievements & Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=khalifaomeiza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
@@ -149,10 +149,10 @@ background:
   superpower  : "Applies engineering problem-solving to software architecture"
 
 when_not_coding:
-  - "✍️  Writing poetry"
-  - "🧑‍🏫  Mentoring junior developers"
-  - "📝  Technical writing"
-  - "📐  System modeling"
+  - "Writing poetry"
+  - "Mentoring junior developers"
+  - "Technical writing"
+  - "System modeling"
 
 currently:
   open_to     : "Remote Frontend / Fullstack roles & collaborations"
@@ -164,7 +164,7 @@ currently:
 
 <!-- CONNECT SECTION -->
 
-## 📡 Let’s Connect
+## Let’s Connect
 
 <div align="center">
 
